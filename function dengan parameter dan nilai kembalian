@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int pembagian ( int n, int m) {
+		return n / m;
+}
+int main () {
+	cout << " function parameter & return " << pembagian ( 25, 5 );
+}
