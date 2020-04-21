@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+void penjumlahan ( int n , int m ) {
+	cout << ( n + m ) ;
+	
+}
+
+int main () {
+	cout << " penjumalahan dari 20 +30 adalah " << endl;
+		penjumlahan ( 20, 30 );
+}
