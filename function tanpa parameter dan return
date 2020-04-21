@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std ;
+
+void fungsi () {
+	cout << endl ;
+	cout << " function tanpa parameter dan return " ;
+	cout << endl;
+}
+int main () {
+		fungsi ();
+}
