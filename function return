@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int fungsi () {
+		int n = 2, m = 25;
+		return n * m;
+}
+
+int main () {
+	cout << " hasil dari n * m adalah " << fungsi ();
+}
